@@ -458,7 +458,8 @@ body {
 background-color: #f8f4f4;
 cursor: pointer;
 padding: 4rem;
-margin-top: 2rem;
+margin-top: 10rem;
+
 }
 
 .services-all{
@@ -964,3 +965,5 @@ font-size: 1.5rem;
 /* ************************************** */
 /* Contact */
 /* ************************************** */
+
+
