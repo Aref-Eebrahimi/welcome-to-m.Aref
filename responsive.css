@@ -1,0 +1,173 @@
+@media (max-width: 56em) {
+  /* *****************part header ****************** */
+  .one-nav-number {
+    display: none;
+  }
+  /* ***************** two-section ***************** */
+  .two-section-two-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .one-nav-class-email p {
+    display: none;
+  }
+  .two-section-thire-nav {
+    display: flex;
+    flex-direction: column;
+  }
+  .two-section-two-nav-mano {
+    display: none;
+  }
+  .two-section-thire-nav-tatal {
+    text-align: center;
+    margin-top: 0rem;
+  }
+  .two-section-thire-nav p {
+    color: #6acfc0;
+    line-height: 2.5rem;
+    font-size: 1.8rem;
+  }
+  /* ****************section four***************** */
+  .four-section-heder-carts-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+  .four-section-heder-carts-div-cr {
+    width: 80%;
+  }
+  /* ******************part main****************** */
+  .section-about-US {
+    max-width: 32rem;
+    margin: 0 auto;
+  }
+  .about-us-img-and-video {
+    display: flex;
+    flex-direction: column;
+  }
+  .about-us-imgs-pic1 {
+    width: 100%;
+    height: 18rem;
+    margin-left: 0px;
+    border-radius: 1.5rem;
+  }
+  .about-us-video-pic2 {
+    width: 100%;
+    height: 18rem;
+    border-radius: 1.5rem;
+    margin-top: 3rem;
+  }
+  /* *******************section about us part2 *************** */
+  .logos-sharing {
+    display: none;
+  }
+  #logos-show {
+    display: flex;
+    justify-content: center;
+  }
+  .Percentage-works {
+    display: flex;
+    flex-direction: column;
+  }
+   /* *****************section-services****************** */
+  .services-carts {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  /* ******************Testimonials ********************* */
+  .testimonials-carts {
+    display: flex;
+    flex-direction: column;
+    gap: 0rem;
+  }
+  .Testimonial-cart{
+    margin-top: 0.3rem;
+    margin-bottom: 2rem;
+  }
+  .Testimonial-paragaf{
+    line-height: 2.5rem;
+  }
+  /* ******************section-Portfolio************** */
+  .callary-pictuers{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .not-show-callary-the-phone{
+    display: none;
+  }
+/* ****************** Our-Team*********************** */
+  .Our-Team-all-carts {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .frequently-part p {
+    font-size: 2rem;
+    line-height: 3rem;
+    color: #5e5d5d;
+  }
+  .Frequently-Asked-Questions {
+    display: flex;
+    flex-direction: column;
+  }
+/* *********************Recent our Posts**************** */
+.Recent-our-Posts-carts {
+    display: flex;
+    flex-direction: column;
+  }
+  .recent-our-posts-Title p {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+  }
+/* ************************Contact********************** */
+.contact-all{
+    padding: 2rem;
+   
+}
+.contact-title{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.contact-title p {
+    font-size: 2rem;
+    line-height: 2.7rem;
+  }
+  .contact-box {
+    display: flex;
+    flex-direction: column;
+  }
+  .contact-form {
+    margin: 0rem; 
+  }
+  .name-email {
+    gap:0rem;
+  }
+  .name-email-text {
+    border-radius: 0.5rem;
+    margin: 1.5rem;
+   
+    
+  }
+  .textarea{
+    margin: 1rem;
+  }
+  .sign-masege{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+
+
+
+
+
+  .footer-all {
+    display: flex;
+    flex-direction: column;
+  }
+}
