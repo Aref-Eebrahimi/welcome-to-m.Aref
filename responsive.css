@@ -101,11 +101,23 @@
     display: none;
   }
 /* ****************** Our-Team*********************** */
-  .Our-Team-all-carts {
+  
+.our-team-all{
+  padding: 5rem;
+}
+.team-pictuer {
+  width: 100%;
+  height: 24.4rem;
+}
+.carts-our-team{
+ text-align: center;
+}
+.Our-Team-all-carts {
     display: flex;
     flex-direction: column;
     gap: 2rem;
   }
+
   .frequently-part p {
     font-size: 2rem;
     line-height: 3rem;
@@ -115,6 +127,7 @@
     display: flex;
     flex-direction: column;
   }
+  
 /* *********************Recent our Posts**************** */
 .Recent-our-Posts-carts {
     display: flex;
