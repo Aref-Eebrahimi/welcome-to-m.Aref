@@ -3,6 +3,9 @@
   .one-nav-number {
     display: none;
   }
+  .one-nav-class-iacns{
+    gap: 0.8rem;
+  }
   /* ***************** two-section ***************** */
   .two-section-two-nav {
     display: flex;
